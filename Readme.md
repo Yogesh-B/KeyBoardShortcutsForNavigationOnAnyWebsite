@@ -1,5 +1,8 @@
 ## Chrome extension
 
+Keyboard Shortcuts For Navigation On Any Website
+
+
 Create set of shortcuts per website.
 
 Set shortcut for website's custom element (e.g. pagination `next` button).
