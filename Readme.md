@@ -1,3 +1,5 @@
+## Chrome extension
+
 Create set of shortcuts per website.
 
 Set shortcut for website's custom element (e.g. pagination `next` button).
